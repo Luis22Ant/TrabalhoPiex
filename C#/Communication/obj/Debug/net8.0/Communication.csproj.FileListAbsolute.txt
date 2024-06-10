@@ -1,0 +1,14 @@
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\bin\Debug\net8.0\Communication.exe
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\bin\Debug\net8.0\Communication.deps.json
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\bin\Debug\net8.0\Communication.runtimeconfig.json
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\bin\Debug\net8.0\Communication.dll
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\bin\Debug\net8.0\Communication.pdb
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\Communication.AssemblyInfoInputs.cache
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\Communication.AssemblyInfo.cs
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\Communication.csproj.CoreCompileInputs.cache
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\Communication.dll
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\refint\Communication.dll
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\Communication.pdb
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\Communication.genruntimeconfig.cache
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\Communication\obj\Debug\net8.0\ref\Communication.dll

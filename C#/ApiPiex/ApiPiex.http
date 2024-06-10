@@ -1,6 +1,0 @@
-@ApiPiex_HostAddress = http://localhost:5191
-
-GET {{ApiPiex_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

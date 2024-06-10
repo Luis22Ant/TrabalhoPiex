@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\Communication.csproj": {}
+    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\Communication.csproj": {
+    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\Communication.csproj",
+        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj",
         "projectName": "Communication",
-        "projectPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\Communication.csproj",
+        "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj",
         "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\obj\\",
+        "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",

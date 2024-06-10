@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\ApiPiex.Communication.csproj",
-      "projectName": "ApiPiex.Communication",
-      "projectPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\ApiPiex.Communication.csproj",
+      "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj",
+      "projectName": "Communication",
+      "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj",
       "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\obj\\",
+      "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",

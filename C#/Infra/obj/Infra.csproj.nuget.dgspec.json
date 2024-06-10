@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Infra\\Infra.csproj": {}
+    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Infra\\Infra.csproj": {
+    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Infra\\Infra.csproj",
+        "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Infra\\obj\\",
+        "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F7mJWCYEpbtcLXgRGVqy3djdqx1qrgz6Ta+vEOXoeVYdehQo+zTnM6+aHop7iiBaedUTzz6qLPLMb4LQbOucGQ==",
+  "dgSpecHash": "YITt3gFQvxxxYyGBdU8bswK9KQaliA0FZwUUtl3miHlqBZ8hPJf1do4/gflOGsZ44NfUSSkgISH615gWjzb1Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Communication\\ApiPiex.Communication.csproj",
+  "projectFilePath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
