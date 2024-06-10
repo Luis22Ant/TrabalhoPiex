@@ -23,11 +23,11 @@ namespace ApiProjetoPiex.Filter
         }
         private void ExceptionProject(ExceptionContext context)
         {
-            //if (context.Exception is NotFoundException)
-            //{
-            //    context.HttpContext.Response.StatusCode = (int)HttpStatusCode.NotFound;
-            //    context.Result = new NotFoundObjectResult(new ResponseException(context.Exception.Message));
-            //}
+            if (context.Exception is NotFoundException)
+            {
+                context.HttpContext.Response.StatusCode = (int)HttpStatusCode.NotFound;
+                context.Result = new NotFoundObjectResult(new ResponseException(context.Exception.Message));
+            }
             //else if (context.Exception is ErrorBadRequestException)
             //{
             //    context.HttpContext.Response.StatusCode = (int)HttpStatusCode.BadRequest;
@@ -38,7 +38,7 @@ namespace ApiProjetoPiex.Filter
             //    context.HttpContext.Response.StatusCode = (int)HttpStatusCode.Conflict;
             //    context.Result = new ConflictObjectResult(new ResponseException(context.Exception.Message));
             //}
-             if (context.Exception is UnauthorizedAccess)
+            else if (context.Exception is UnauthorizedAccess)
             {
                 context.HttpContext.Response.StatusCode = (int)HttpStatusCode.Unauthorized;
                 context.Result = new UnauthorizedObjectResult(new ResponseException(context.Exception.Message));

@@ -990,6 +990,10 @@
       "Communication/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Exception": "1.0.0",
+          "Infra": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Communication.dll": {}
         },

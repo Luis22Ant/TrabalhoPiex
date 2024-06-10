@@ -87,3 +87,4 @@ C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\ApiProjetoPiex\obj\Debug\net8.0\ref
 C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\ApiProjetoPiex\obj\Debug\net8.0\ApiProjetoPiex.pdb
 C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\ApiProjetoPiex\obj\Debug\net8.0\ApiProjetoPiex.genruntimeconfig.cache
 C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\ApiProjetoPiex\obj\Debug\net8.0\ref\ApiProjetoPiex.dll
+C:\Users\galoc\Desktop\C#Piex\ApiProjetoPiex\ApiProjetoPiex\obj\Debug\net8.0\ApiProjetoPiex.MvcApplicationPartsAssemblyInfo.cs

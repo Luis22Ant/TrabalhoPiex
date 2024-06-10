@@ -179,7 +179,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj": {
+                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj"
+              },
+              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj": {
+                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
