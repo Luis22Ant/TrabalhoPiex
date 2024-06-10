@@ -1,5 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Azure;
+
 using Microsoft.AspNetCore.Mvc;
+using ApiPiex.Application.UseCase.Login;
+
 
 namespace ApiPiex.Controllers
 {
@@ -9,8 +12,14 @@ namespace ApiPiex.Controllers
     {
 
         [HttpPost]
-        public IActionResult Login(string login,string senha)
+        public async Task<IActionResult> Login(string login, string senha)
         {
+            var useCase = new LoginUseCase();
+
+            var response = await useCase.Execute(login, senha);
+
+            if(response is null)
+                return NotFound();
 
 
             return Ok(login);

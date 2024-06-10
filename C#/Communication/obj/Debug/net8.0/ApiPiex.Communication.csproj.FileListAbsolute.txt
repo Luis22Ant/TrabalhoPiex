@@ -1,0 +1,15 @@
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\bin\Debug\net8.0\ApiPiex.Communication.exe
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\bin\Debug\net8.0\ApiPiex.Communication.deps.json
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\bin\Debug\net8.0\ApiPiex.Communication.runtimeconfig.json
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\bin\Debug\net8.0\ApiPiex.Communication.dll
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\bin\Debug\net8.0\ApiPiex.Communication.pdb
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.AssemblyInfoInputs.cache
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.AssemblyInfo.cs
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.csproj.CoreCompileInputs.cache
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.sourcelink.json
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.dll
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\refint\ApiPiex.Communication.dll
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.pdb
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ApiPiex.Communication.genruntimeconfig.cache
+C:\Users\galoc\Desktop\TrabalhoPiex\C#\Communication\obj\Debug\net8.0\ref\ApiPiex.Communication.dll

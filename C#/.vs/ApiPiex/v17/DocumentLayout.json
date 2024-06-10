@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{912A726A-B3A4-497D-97B0-167AEC6F0F57}|ApiPiex\\ApiPiex.csproj|c:\\users\\galoc\\desktop\\trabalhopiex\\c#\\apipiex\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912A726A-B3A4-497D-97B0-167AEC6F0F57}|ApiPiex\\ApiPiex.csproj|solutionrelative:apipiex\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8FD422A-E05F-4FB2-BFD5-61BA28BC325B}|Application\\ApiPiex.Application.csproj|c:\\users\\galoc\\desktop\\trabalhopiex\\c#\\application\\usecase\\login\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FD422A-E05F-4FB2-BFD5-61BA28BC325B}|Application\\ApiPiex.Application.csproj|solutionrelative:application\\usecase\\login\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{912A726A-B3A4-497D-97B0-167AEC6F0F57}|ApiPiex\\ApiPiex.csproj|c:\\users\\galoc\\desktop\\trabalhopiex\\c#\\apipiex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912A726A-B3A4-497D-97B0-167AEC6F0F57}|ApiPiex\\ApiPiex.csproj|solutionrelative:apipiex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{912A726A-B3A4-497D-97B0-167AEC6F0F57}|ApiPiex\\ApiPiex.csproj|c:\\users\\galoc\\desktop\\trabalhopiex\\c#\\apipiex\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912A726A-B3A4-497D-97B0-167AEC6F0F57}|ApiPiex\\ApiPiex.csproj|solutionrelative:apipiex\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\ApiPiex\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ApiPiex\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\ApiPiex\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ApiPiex\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "LoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Application\\UseCase\\Login\\LoginUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Login\\LoginUseCase.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\Application\\UseCase\\Login\\LoginUseCase.cs",
+              "RelativeToolTip": "Application\\UseCase\\Login\\LoginUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:17:16.398Z",
+              "WhenOpened": "2024-06-10T17:10:40.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\ApiPiex\\Program.cs",
-              "RelativeDocumentMoniker": "ApiPiex\\Program.cs",
-              "ToolTip": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\ApiPiex\\Program.cs",
-              "RelativeToolTip": "ApiPiex\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\ApiPiex\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ApiPiex\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\C#\\ApiPiex\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ApiPiex\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:15:21.008Z",
+              "WhenOpened": "2024-06-10T17:05:31.443Z",
               "EditorCaption": ""
             }
           ]
