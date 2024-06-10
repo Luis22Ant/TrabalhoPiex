@@ -10,9 +10,9 @@ const mockedUser = {
 
 export default function Layout({ children }: PropsWithChildren) {
   return (
-    <div className="flex gap-4">
+    <div className="flex gap-4 w-full">
       <MainSidebar user={mockedUser} />
-      <main>{children}</main>
+      <main className="w-full">{children}</main>
     </div>
   );
 }

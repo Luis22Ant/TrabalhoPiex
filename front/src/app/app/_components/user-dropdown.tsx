@@ -3,17 +3,10 @@ import { Button } from "@/components/ui/button";
 import {
   DropdownMenu,
   DropdownMenuContent,
-  DropdownMenuGroup,
   DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import {
-  LockClosedIcon,
-  MixerVerticalIcon,
-  RocketIcon,
-} from "@radix-ui/react-icons";
+import { LockClosedIcon } from "@radix-ui/react-icons";
 import { Session } from "next-auth";
 import { signOut } from "next-auth/react";
 
@@ -36,7 +29,7 @@ export function UserDropdown({ user }: UserDropdownProps) {
             <AvatarFallback>U</AvatarFallback>
           </Avatar>
 
-          <div className="flex flex-col flex-1 space-y-1 text-left">
+          <div className="flex-col flex-1 space-y-1 text-left hidden sm:flex">
             {user.name && (
               <p className="text-xs font-medium leading-none">{user.name}</p>
             )}
@@ -46,27 +39,7 @@ export function UserDropdown({ user }: UserDropdownProps) {
           </div>
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="w-56" align="end" forceMount>
-        <DropdownMenuLabel className="font-normal">
-          <div className="flex flex-col space-y-1">
-            <p className="text-sm font-medium leading-none">{user.name}</p>
-            <p className="text-xs leading-none text-muted-foreground">
-              {user.email}
-            </p>
-          </div>
-        </DropdownMenuLabel>
-        <DropdownMenuSeparator />
-        <DropdownMenuGroup>
-          <DropdownMenuItem>
-            <MixerVerticalIcon className="w-3 h-3 mr-3" />
-            Configuraçoes
-          </DropdownMenuItem>
-          <DropdownMenuItem>
-            <RocketIcon className="w-3 h-3 mr-3" />
-            Upgrade
-          </DropdownMenuItem>
-        </DropdownMenuGroup>
-        <DropdownMenuSeparator />
+      <DropdownMenuContent className="w-48 ml-2" align="end" forceMount>
         <DropdownMenuItem onClick={() => signOut()}>
           <LockClosedIcon className="w-3 h-3 mr-3" />
           Log out
