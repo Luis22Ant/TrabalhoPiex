@@ -20,7 +20,7 @@ namespace Application.Login
             _dbContext = new ApiPiexDbContext();
         }
 
-        public async Task<ResponseLogin> Execute(string user, string senha)
+        public async Task<ResponseId> Execute(string user, string senha)
         {
             var entity = await _dbContext.Usuarios.FirstOrDefaultAsync(p => p.Login == user && p.Senha == senha);
 
@@ -28,7 +28,7 @@ namespace Application.Login
                 throw new UnauthorizedAccess("Login ou senha incorretos!");
 
 
-            return new ResponseLogin
+            return new ResponseId
             {
                 Id = entity.Id
             };
