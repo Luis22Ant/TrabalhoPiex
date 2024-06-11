@@ -1,44 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\ApiProjetoPiex\\ApiProjetoPiex.csproj": {}
+    "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/ApiProjetoPiex/ApiProjetoPiex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\ApiProjetoPiex\\ApiProjetoPiex.csproj": {
+    "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/ApiProjetoPiex/ApiProjetoPiex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\ApiProjetoPiex\\ApiProjetoPiex.csproj",
+        "projectUniqueName": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/ApiProjetoPiex/ApiProjetoPiex.csproj",
         "projectName": "ApiProjetoPiex",
-        "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\ApiProjetoPiex\\ApiProjetoPiex.csproj",
-        "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\ApiProjetoPiex\\obj\\",
+        "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/ApiProjetoPiex/ApiProjetoPiex.csproj",
+        "packagesPath": "/Users/matheusbeniniferreira/.nuget/packages/",
+        "outputPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/ApiProjetoPiex/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/matheusbeniniferreira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Application\\Application.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Application/Application.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Application/Application.csproj"
               },
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/Communication.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/Communication.csproj"
               },
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj"
               },
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj"
               }
             }
           }
@@ -82,42 +80,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Application\\Application.csproj": {
+    "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Application\\Application.csproj",
+        "projectUniqueName": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Application\\obj\\",
+        "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Application/Application.csproj",
+        "packagesPath": "/Users/matheusbeniniferreira/.nuget/packages/",
+        "outputPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/matheusbeniniferreira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/Communication.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/Communication.csproj"
               },
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj"
               },
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj"
               }
             }
           }
@@ -152,39 +148,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj": {
+    "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj",
+        "projectUniqueName": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/Communication.csproj",
         "projectName": "Communication",
-        "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\Communication.csproj",
-        "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Communication\\obj\\",
+        "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/Communication.csproj",
+        "packagesPath": "/Users/matheusbeniniferreira/.nuget/packages/",
+        "outputPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Communication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/matheusbeniniferreira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj"
               },
-              "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj": {
-                "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj"
+              "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj": {
+                "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj"
               }
             }
           }
@@ -219,28 +213,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj": {
+    "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj",
+        "projectUniqueName": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj",
         "projectName": "Exception",
-        "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj",
-        "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\obj\\",
+        "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj",
+        "packagesPath": "/Users/matheusbeniniferreira/.nuget/packages/",
+        "outputPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/matheusbeniniferreira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -279,28 +271,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj": {
+    "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj",
+        "projectUniqueName": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\Infra.csproj",
-        "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Infra\\obj\\",
+        "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/Infra.csproj",
+        "packagesPath": "/Users/matheusbeniniferreira/.nuget/packages/",
+        "outputPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Infra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/matheusbeniniferreira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -355,7 +345,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

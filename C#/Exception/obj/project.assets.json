@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\galoc\\.nuget\\packages\\": {}
+    "/Users/matheusbeniniferreira/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj",
+      "projectUniqueName": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj",
       "projectName": "Exception",
-      "projectPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\Exception.csproj",
-      "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\galoc\\Desktop\\C#Piex\\ApiProjetoPiex\\Exception\\obj\\",
+      "projectPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/Exception.csproj",
+      "packagesPath": "/Users/matheusbeniniferreira/.nuget/packages/",
+      "outputPath": "/Users/matheusbeniniferreira/estudos/TrabalhoPiex/C#/Exception/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/matheusbeniniferreira/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
