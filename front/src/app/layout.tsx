@@ -8,7 +8,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="h-screen flex">
+      <body className="h-screen flex w-full">
         {children}
         <Toaster />
       </body>
