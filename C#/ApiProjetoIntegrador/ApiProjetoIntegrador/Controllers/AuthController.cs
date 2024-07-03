@@ -41,7 +41,7 @@ namespace ApiProjetoIntegrador.Controllers
             if (user is null)
                 return BadRequest();
 
-            return Ok(user);
+            return Created("Criado com sucesso",user);
         }
     }
 }

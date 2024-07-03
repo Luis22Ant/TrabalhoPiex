@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Service\\TokenService.cs",
-              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Service\\TokenService.cs",
-              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Service\\TokenService.cs",
-              "RelativeToolTip": "ApiProjetoIntegrador\\Service\\TokenService.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADgvxMAAAAIAAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApiProjetoIntegrador\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T17:00:30.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Program.cs",
-              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Program.cs",
-              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Program.cs",
-              "RelativeToolTip": "ApiProjetoIntegrador\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T17:00:16.693Z",
+              "WhenOpened": "2024-07-03T19:34:46.602Z",
               "EditorCaption": ""
             }
           ]

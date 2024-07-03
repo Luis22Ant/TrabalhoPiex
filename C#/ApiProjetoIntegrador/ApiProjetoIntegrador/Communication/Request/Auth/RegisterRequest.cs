@@ -9,6 +9,7 @@ namespace ApiProjetoIntegrador.Communication.Request.Auth
         public string Login { get; set; } = string.Empty;
         public string Senha { get; set; } = string.Empty;
 
-     
+        public Role Role { get; set; }
+
     }
 }

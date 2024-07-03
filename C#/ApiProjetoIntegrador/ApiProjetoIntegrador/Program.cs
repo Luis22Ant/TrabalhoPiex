@@ -1,6 +1,7 @@
 using ApiProjetoIntegrador;
 using ApiProjetoIntegrador.Infra;
 using ApiProjetoIntegrador.Repositories.Auth;
+using ApiProjetoIntegrador.Repositories.UsuariosRepository;
 using ApiWithJwt.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -43,6 +44,7 @@ builder.Services.AddDbContext<ApiDbContext>(options =>
     new MySqlServerVersion(new Version(8, 0, 21))));
 
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+builder.Services.AddScoped<IUsuarioRepository,UsuariosRepository>();
 
 var app = builder.Build();
 
