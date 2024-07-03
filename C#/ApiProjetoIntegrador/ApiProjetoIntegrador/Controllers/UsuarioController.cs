@@ -32,7 +32,6 @@ namespace ApiProjetoIntegrador.Controllers
             }
             catch (Exception)
             {
-
                 return StatusCode(StatusCodes.Status500InternalServerError, "Entre em contato!");
             }
 
