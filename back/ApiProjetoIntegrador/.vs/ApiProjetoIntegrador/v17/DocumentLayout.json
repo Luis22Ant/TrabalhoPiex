@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\repositories\\doadoresrepository\\doadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\repositories\\doadoresrepository\\doadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\repositories\\itensdoadosrepository\\itemdoadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\repositories\\itensdoadosrepository\\itemdoadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\controllers\\doadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\controllers\\doadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\repositories\\itensdoadosrepository\\iitensdoadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\repositories\\itensdoadosrepository\\iitensdoadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\controllers\\itemdoadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\controllers\\itemdoadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\repositories\\doadoresrepository\\idoadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\repositories\\doadoresrepository\\idoadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\repositories\\donatariosrepository\\donatariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\repositories\\donatariosrepository\\donatariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\infra\\entities\\itemdoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\infra\\entities\\itemdoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|c:\\users\\galoc\\desktop\\apipiex\\apiprojetointegrador\\apiprojetointegrador\\communication\\request\\itemdoado\\itemdoadorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DF453E-0B21-4C5D-A4DE-7778F2F564F8}|ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj|solutionrelative:apiprojetointegrador\\communication\\request\\itemdoado\\itemdoadorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DoadorController.cs",
-              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Controllers\\DoadorController.cs",
-              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Controllers\\DoadorController.cs",
-              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Controllers\\DoadorController.cs",
-              "RelativeToolTip": "ApiProjetoIntegrador\\Controllers\\DoadorController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAqwEsAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T01:17:59.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IDoadorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\IDoadorRepository.cs",
-              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\IDoadorRepository.cs",
-              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\IDoadorRepository.cs",
-              "RelativeToolTip": "ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\IDoadorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T01:16:12.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Program.cs",
               "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Program.cs",
               "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Program.cs",
               "RelativeToolTip": "ApiProjetoIntegrador\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACUAAAAaAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADQAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T01:07:46.916Z",
+              "WhenOpened": "2024-07-04T18:30:08.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDoadoController.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Controllers\\ItemDoadoController.cs",
+              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Controllers\\ItemDoadoController.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Controllers\\ItemDoadoController.cs",
+              "RelativeToolTip": "ApiProjetoIntegrador\\Controllers\\ItemDoadoController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAvwDMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:18:59.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemDoado.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Infra\\Entities\\ItemDoado.cs",
+              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Infra\\Entities\\ItemDoado.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Infra\\Entities\\ItemDoado.cs",
+              "RelativeToolTip": "ApiProjetoIntegrador\\Infra\\Entities\\ItemDoado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:17:50.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemDoadoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Communication\\Request\\ItemDoado\\ItemDoadoRequest.cs",
+              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Communication\\Request\\ItemDoado\\ItemDoadoRequest.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Communication\\Request\\ItemDoado\\ItemDoadoRequest.cs",
+              "RelativeToolTip": "ApiProjetoIntegrador\\Communication\\Request\\ItemDoado\\ItemDoadoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:17:46.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoadorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\DoadorRepository.cs",
-              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\DoadorRepository.cs",
-              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\DoadorRepository.cs",
-              "RelativeToolTip": "ApiProjetoIntegrador\\Repositories\\DoadoresRepository\\DoadorRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Title": "ItemDoadosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\ItemDoadosRepository.cs",
+              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\ItemDoadosRepository.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\ItemDoadosRepository.cs",
+              "RelativeToolTip": "ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\ItemDoadosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T01:07:34.851Z",
+              "WhenOpened": "2024-07-04T18:14:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IItensDoadosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\IItensDoadosRepository.cs",
+              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\IItensDoadosRepository.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\IItensDoadosRepository.cs",
+              "RelativeToolTip": "ApiProjetoIntegrador\\Repositories\\ItensDoadosRepository\\IItensDoadosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:14:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonatarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\DonatariosRepository\\DonatarioRepository.cs",
+              "RelativeDocumentMoniker": "ApiProjetoIntegrador\\Repositories\\DonatariosRepository\\DonatarioRepository.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\Repositories\\DonatariosRepository\\DonatarioRepository.cs",
+              "RelativeToolTip": "ApiProjetoIntegrador\\Repositories\\DonatariosRepository\\DonatarioRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:12:53.587Z",
               "EditorCaption": ""
             }
           ]

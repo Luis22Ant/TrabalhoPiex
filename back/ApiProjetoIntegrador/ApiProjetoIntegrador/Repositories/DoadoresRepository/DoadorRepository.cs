@@ -47,8 +47,6 @@ namespace ApiProjetoIntegrador.Repositories.DoadoresRepository
         {
             var doadores = await _context.Doadores.AsNoTracking().ToListAsync();
 
-            //var doadores = await _context.Doadores.Include(d => d.Items).AsNoTracking().ToListAsync(); para incluir os itens que cada pessoa doou
-
             return doadores;
         }
 

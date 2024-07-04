@@ -1,7 +1,10 @@
 using ApiProjetoIntegrador;
 using ApiProjetoIntegrador.Infra;
 using ApiProjetoIntegrador.Repositories.Auth;
+using ApiProjetoIntegrador.Repositories.CategoriasRepository;
 using ApiProjetoIntegrador.Repositories.DoadoresRepository;
+using ApiProjetoIntegrador.Repositories.DonatariosRepository;
+using ApiProjetoIntegrador.Repositories.ItensDoadosRepository;
 using ApiProjetoIntegrador.Repositories.ItensRepository;
 using ApiProjetoIntegrador.Repositories.UsuariosRepository;
 using ApiWithJwt.Services;
@@ -46,18 +49,22 @@ builder.Services.AddDbContext<ApiDbContext>(options =>
     new MySqlServerVersion(new Version(8, 0, 21))));
 
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+builder.Services.AddScoped<IItensDoadosRepository, ItemDoadosRepository>();
+builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
+builder.Services.AddScoped<IDonatarioRepository, DonatarioRepository>();
 builder.Services.AddScoped<IDoadorRepository, DoadorRepository>();
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
 builder.Services.AddScoped<IUsuarioRepository, UsuariosRepository>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+
 
 app.UseHttpsRedirection();
 app.UseAuthentication();
