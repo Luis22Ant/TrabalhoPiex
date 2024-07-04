@@ -48,13 +48,12 @@ namespace ApiProjetoIntegrador.Repositories.ItensRepository
         public async Task<List<Item>> GetAll()
         {
             var itens = await _context.Itens.AsNoTracking().ToListAsync();
-
             return itens;
         }
 
         public async Task<Item?> GetById(Guid id)
         {
-            var item = await _context.Itens.FindAsync(id);
+            var item = await _context.Itens.AsNoTracking().SingleOrDefaultAsync(i => i.Id == id);
 
             return item;
         }

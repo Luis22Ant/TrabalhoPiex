@@ -2997,11 +2997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\back\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj",
+      "projectUniqueName": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj",
       "projectName": "ApiProjetoIntegrador",
-      "projectPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\back\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj",
+      "projectPath": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj",
       "packagesPath": "C:\\Users\\galoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\back\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\obj\\",
+      "outputPath": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\galoc\\AppData\\Roaming\\NuGet\\NuGet.Config",

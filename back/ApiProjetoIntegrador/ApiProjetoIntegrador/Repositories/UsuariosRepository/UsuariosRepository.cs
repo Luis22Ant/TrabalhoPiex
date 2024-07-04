@@ -36,7 +36,7 @@ namespace ApiProjetoIntegrador.Repositories.UsuariosRepository
 
         public async Task<Usuario?> GetById(Guid id)
         {
-            var usuario = await _context.Usuarios.SingleOrDefaultAsync(u => u.Id == id);
+            var usuario = await _context.Usuarios.AsNoTracking().SingleOrDefaultAsync(u => u.Id == id);
 
             return usuario;
         }

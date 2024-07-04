@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R64vdN/5ebJYTVytenSGNEuXagG8F4tK2JVxSwKa4+6qDwODLh3YBCSdIt5JrtGH+SkrJEsYPD3ml4Voz4pm6g==",
+  "dgSpecHash": "Zz3R9YlLvdtdwDXFs7KnfPztzFTeU+NaMYtfWdYhEdMqMxC4TdzLPqgeRezChnai9Rf8JNa5nJRTmSoJndGuHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galoc\\Desktop\\TrabalhoPiex\\back\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj",
+  "projectFilePath": "C:\\Users\\galoc\\Desktop\\ApiPiex\\ApiProjetoIntegrador\\ApiProjetoIntegrador\\ApiProjetoIntegrador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\galoc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\galoc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",

@@ -1,6 +1,7 @@
 using ApiProjetoIntegrador;
 using ApiProjetoIntegrador.Infra;
 using ApiProjetoIntegrador.Repositories.Auth;
+using ApiProjetoIntegrador.Repositories.DoadoresRepository;
 using ApiProjetoIntegrador.Repositories.ItensRepository;
 using ApiProjetoIntegrador.Repositories.UsuariosRepository;
 using ApiWithJwt.Services;
@@ -45,8 +46,9 @@ builder.Services.AddDbContext<ApiDbContext>(options =>
     new MySqlServerVersion(new Version(8, 0, 21))));
 
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+builder.Services.AddScoped<IDoadorRepository, DoadorRepository>();
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
-builder.Services.AddScoped<IUsuarioRepository,UsuariosRepository>();
+builder.Services.AddScoped<IUsuarioRepository, UsuariosRepository>();
 
 var app = builder.Build();
 
